@@ -1,0 +1,30 @@
+body {
+    background-color:  #D8D8D8;
+    padding-right: 20pt;    padding-left: 20pt; 
+    font-size: 14pt; color: #5E5853;
+}
+span {padding-right: 10pt}
+table {margin-top:5pt; font-size:4vw;}
+tr {margin-top:2pt;}
+th {text-align:left;  vertical-align:top;  color: #055;}
+td {}
+a {
+    text-decoration:none;
+    color: #11E;
+}
+
+a:visited {
+    color: #59A;
+    
+}
+a:hover {text-decoration:underline;}
+
+a.external {
+    background-image: url('Icon_External_Link.png');
+    padding-right: 12pt;
+    text-decoration: none;
+    background-position: right;
+    background-repeat:no-repeat;
+}
+
+.caption {padding-top:20px; font-variant:small-caps; font-size:20pt;}

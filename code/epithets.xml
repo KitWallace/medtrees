@@ -1,0 +1,2117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<epithets>
+    <references>
+        <reference>
+            <name>Plant Names Simplified; Their Pronunciation Derivation &amp; Meaning by
+                Johnson and Smith</name>
+        </reference>
+        <reference>
+            <name> A Popular Dictionary of Botanical Names and Terms by G.F. Zimmer 1912</name>
+        </reference>
+        <reference>
+            <name>Missouri Botanical Garden Plant Finder</name>
+            <href>http://www.missouribotanicalgarden.org/plantfinder/plantfindersearch.aspx</href>
+        </reference>
+        <reference>
+            <name>Wikipedia</name>
+            <href>https://en.wikipedia.org/wiki/Main_Page</href>
+        </reference>
+        <reference>
+            <name>Virginia Tech Dendrology Features</name>
+            <href>http://dendro.cnre.vt.edu/dendrology/syllabus/meanings.cfm</href>
+        </reference>
+        <reference>
+            <name>The Seed Site</name>
+            <href>http://theseedsite.co.uk/latin.html</href>
+        </reference>
+    </references>
+    <genus>
+        <name>Abelia</name>
+        <family>Caprifoliaceae</family>
+        <pronunciation>a-BEEL-e-a</pronunciation>
+        <meaning>after Dr Charles Able, physician and author on China who discovered A. chinensis (1)</meaning>
+        <species>
+            <name>triflora</name>
+            <pronunciation>trif-LO-ra (?)</pronunciation>
+            <meaning>three-flowered, i.e flowers in threes(1)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Abies</name>
+        <family>Pinaceae</family>
+        <pronunciation>A-beez</pronunciation>
+        <meaning>ancient L. name, possibly from L. abeo depart, i.e. from the ground, referring to
+            the great height attained by some species.(1)</meaning>
+        <species>
+            <name>grandis</name>
+            <pronunciation>GRAN-dis</pronunciation>
+            <meaning>of great size(1)</meaning>
+        </species>
+        <species>
+            <name>procera</name>
+            <meaning>rising or tall</meaning>
+        </species>
+        <species>
+            <name>nordmanniana</name>
+            <meaning>named after the Finnish zoologist Alexander von Nordmann (1803–1866)(3)</meaning>
+        </species>
+        <species>
+            <name>cephalonica</name>
+            <meaning>of Cephalonia</meaning>
+        </species>
+        <species>
+            <name>balsamea</name>
+            <meaning>having the soothing quality of balm (2)</meaning>
+        </species>
+        <species>
+            <name>pinsapo</name>
+            <meaning>possibly from Spanish pino meaning pine and sapo meaning fir being a fir in the pine family</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Acer</name>
+        <family>Sapindaceae</family>
+        <pronunciation>A-ser</pronunciation>
+        <meaning>Classical L. name, possibly from L. acer, hard or sharp, the wood once having been
+            used for writing tablets.(1)</meaning>
+        <species>
+            <name>platanoides</name>
+            <pronunciation>plat-an-OY-des</pronunciation>
+            <meaning>like a plane tree (1)</meaning>
+        </species>
+        <species>
+            <name>campestre</name>
+            <pronunciation>kam-PES-tre</pronunciation>
+            <meaning>growing in fields (1)</meaning>
+        </species>
+        <species>
+            <name>cappadocicum</name>
+            <pronunciation/>
+            <meaning>from Cappadocia in Central Turkey</meaning>
+        </species>
+        <species>
+            <name>negundo</name>
+            <pronunciation/>
+            <meaning>from the Sanskrit and Bengali word nirgundi, which was used as negundo in the
+                naming of Vitex negundo and later for Acer negundo that has a leaf similar to that
+                of Vitex negundo.</meaning>
+        </species>
+        <species>
+            <name>opalus</name>
+            <pronunciation/>
+            <meaning>L. opal</meaning>
+        </species>
+        <species>
+            <name>palmatum</name>
+            <pronunciation>pal-MA-tum</pronunciation>
+            <meaning>leaves palmate, like a hand</meaning>
+        </species>
+        <species>
+            <name>pseudoplatanus</name>
+            <pronunciation>sued-o-plat-A-nus</pronunciation>
+            <meaning>false Plane tree</meaning>
+            <cultivar>
+                <name>Purpureum</name>
+                <meaning>purple</meaning>
+            </cultivar>
+            <form>
+                <name>variegatum</name>
+                <meaning>variegated</meaning>
+            </form>
+        </species>
+        <species>
+            <name>rubrum</name>
+            <pronunciation>roo-BRUM</pronunciation>
+            <meaning>red (after leaves in autumn)</meaning>
+        </species>
+        <species>
+            <name>capillipes</name>
+            <meaning>from L. slender-footed (capillus meaning hair and pes meaning foot) in apparent reference to the thin flower/fruit stalks.</meaning>
+        </species>
+        <species>
+            <name>griseum</name>
+            <meaning>from L. griseus meaning gray in reference to color of the leaf undersides.</meaning>
+        </species>
+        <species>
+            <name>saccharum</name>
+            <meaning>means sugary in reference to the sweet sap. Saccharum is the genus name for sugarcane.</meaning>
+        </species>
+        <species>
+            <name>pensylvanicum</name>
+            <meaning>although misspelled by Linnaeus, the specific epithet is in fact a reference to the State of Pennsylvania where this tree is native.</meaning>
+        </species>
+        <species>
+            <name>ginnala</name>
+            <meaning>vernacular name</meaning>
+        </species>
+        <species>
+            <name>triflorum</name>
+            <meaning>three-flowered</meaning>
+        </species>
+        <species>
+            <name>pavia</name>
+            <meaning>honours 17th C. Dutch botanist Peter Paaw (Petrus Pavius)</meaning>
+        </species>
+        <species>
+            <name>carpinifolium</name>
+            <meaning>with leaves like Hornbeam (2)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Aesculus</name>
+        <family>Sapindaceae</family>
+        <pronunciation>ES-ku-lus</pronunciation>
+        <meaning>ancient L. name of an oak or mast-bearing tree</meaning>
+        <species>
+            <name>hippocastanum</name>
+            <pronunciation>hip-po-KAS-ta-num</pronunciation>
+            <meaning>Gr. hippo, a horse and L. castanea, the Chestnut tree of Virgil</meaning>
+        </species>
+        <species>
+            <name>flava</name>
+            <pronunciation/>
+            <meaning>L yellow refering to the flowers</meaning>
+        </species>
+        <species>
+            <name>indica</name>
+            <meaning>of India but has been applied to plants from East Indies as well as into China</meaning>
+        </species>
+        <species>
+            <name>parviflora</name>
+            <meaning>small flowers</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ailanthus</name>
+        <family>Simaroubaceae</family>
+        <pronunciation>a-LAN-thus</pronunciation>
+        <meaning>from the native Moluccan name, ailanto signifying tall enough to reach the
+            sky</meaning>
+        <species>
+            <name>altissima</name>
+            <meaning>L. highest</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Alnus</name>
+        <family>Betulaceae</family>
+        <pronunciation>AL-nus</pronunciation>
+        <meaning>L. name for alder</meaning>
+        <species>
+            <name>cordata</name>
+            <pronunciation>kor-DA-ta</pronunciation>
+            <meaning>L. cordata,heart-shaped - of leaves</meaning>
+        </species>
+        <species>
+            <name>glutinosa</name>
+            <pronunciation>glu-tin-O-sa</pronunciation>
+            <meaning>sticky - the foliage gummy</meaning>
+            <sub>
+                <name>Laciniata</name>
+                <meaning>fringed, cut into deep,narrow irregular lobes</meaning>
+            </sub>
+        </species>
+        <species>
+            <name>incana</name>
+            <pronunciation>in-KA-na</pronunciation>
+            <meaning>grey or hoary-leaved</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Amelanchier</name>
+        <family>Rosaceae</family>
+        <pronunciation>am-el-AN-ke-er</pronunciation>
+        <meaning>adapted from Fr. amelancier, an old name in Savoy for A. vulgaris (or A. ovalis)</meaning>
+        <species>
+            <name>laevis</name>
+            <meaning>hairless or smooth (of the foliage)</meaning>
+        </species>
+        <species>
+            <name>lamarckii</name>
+            <meaning>honors Jean Baptiste Antoine Monet de Lamarck, 18th century French naturalist, known for his theory of acquired characteristics</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Arbutus</name>
+        <family>Ericaceae</family>
+        <pronunciation>AR-but-us</pronunciation>
+        <meaning>L. name, for A.unedo, perhaps derived from Celtic arboise, rough-fruited</meaning>
+        <species>
+            <name>unedo</name>
+            <pronunciation>u-NED-o or u-NE-do</pronunciation>
+            <meaning>Pliny derives name from unus, one and edo to eat i.e. to eat only one since
+                taste is exceedingly bland</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Araucaria</name>
+        <family>Araucariaceae</family>
+        <pronunciation>a-raw-KAR-e-a</pronunciation>
+        <meaning>from araucanos name of of the Indian tribe of the Province of Araneo, Chile where A. araucana was first found</meaning>
+        <species>
+            <name>araucana</name>
+            <meaning>from the  the Indian tribe name (renamed from imbricata)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Azara</name>
+        <family>Salicaceae</family>
+        <pronunciation>az-AR-a</pronunciation>
+        <meaning>after Spanish naturalist Felix de Azara (1742-1821) who spent time in South America in the late 1700s doing research </meaning>
+        <species>
+            <name>lanceolata</name>
+            <meaning>lance-shaped (leaves)</meaning>
+        </species>
+        <species>
+            <name>microphylla</name>
+            <meaning>micro, tiny and phylla, leff</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Betula</name>
+        <pronunciation>BET-u-la</pronunciation>
+        <meaning>The Latin name for birch - Anglo-Saxon birce</meaning>
+        <family>Betulaceae</family>
+        <species>
+            <name>pendula</name>
+            <pronunciation>PEN-du-la</pronunciation>
+            <meaning>pendulous or weeping</meaning>
+        </species>
+        <species>
+            <name>ermanii</name>
+            <pronunciation/>
+            <meaning>after the German amateur-botanist Georg Adolf Erman presumably found in his
+                early travels before he became a distinguished physicist contributing to the theory
+                of magnetism. </meaning>
+        </species>
+        <species>
+            <name>opalus</name>
+            <pronunciation/>
+            <meaning>L. opal</meaning>
+        </species>
+        <species>
+            <name>utilis</name>
+            <meaning>L. useful</meaning>
+        </species>
+        <species>
+            <name>papyrifera</name>
+            <meaning>paper-bearing , in reference to the bark</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Buxus</name>
+        <family>Buxaceae</family>
+        <pronunciation>BUKS-us</pronunciation>
+        <meaning>Ancient L. name for box</meaning>
+        <species>
+            <name>balearica</name>
+            <meaning>of the Balearic Islands</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Buddleja</name>
+        <family>Buddlejaceae</family>
+        <pronunciation>BUD-le-a</pronunciation>
+        <meaning>named by Linnaeus after Rev. Adam Buddle,one-time vicar of
+            Farnbridge,Essex</meaning>
+        <species>
+            <name>davidii</name>
+            <meaning>after the Basque missionary and explorer in China, Father Armand David, who
+                first noticed the shrub.</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Calycanthus</name>
+        <family>Calycanthaceae</family>
+        <pronunciation>kal-i-KANTH-us</pronunciation>
+        <meaning>from Gr. kalyx, a flower-cup (calyx) and anthos a flower, in reference to the coloured sepels</meaning>
+        <species>
+            <name>floridus</name>
+            <pronunciation>FLOR-id-us</pronunciation>
+            <meaning>flowering abundantly</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Calocedrus</name>
+        <family>Cupressaceae</family>
+        <meaning>Gr. kalos, beautiful and kedrus, Cedar</meaning>
+        <species>
+            <name>decurrens</name>
+            <meaning>decurrensis L. with leaf margins running gradually into the stems</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Carpinus</name>
+        <family>Betulaceae</family>
+        <pronunciation>kar-PINE-us</pronunciation>
+        <meaning>ancient L. name for hornbeam</meaning>
+        <species>
+            <name>betulus</name>
+            <pronunciation>BET-u-lus</pronunciation>
+            <meaning>generic name for Birch which it resembles</meaning>
+        </species>
+        <species>
+            <name>caroliniana</name>
+            <meaning>of Carolina</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Carya</name>
+        <family>Juglandaceae</family>
+        <meaning>from the Gr. karya used for walnut trees</meaning>
+    </genus>
+    <genus>
+        <name>Castanea</name>
+        <family>Fagaceae</family>
+        <pronunciation>kas-TA-nea-a</pronunciation>
+        <meaning>from Gr kastanun, a chestnut, said to be after Kastana, a district in
+            Thessaly</meaning>
+        <species>
+            <name>sativa</name>
+            <pronunciation>SAT-i-va</pronunciation>
+            <meaning>cultivated i.e. for crops</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Catalpa</name>
+        <family>Bignoniaceae</family>
+        <pronunciation>kat-Al-pa</pronunciation>
+        <meaning>corruption of 'Catawba', the name of the North American Indian tribe that formerly
+            ocupied Georgia and the Carolinas</meaning>
+        <species>
+            <name>bignonioides</name>
+            <pronunciation>big-no-ne-OY-des</pronunciation>
+            <meaning>Bignonia-like</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cedrus</name>
+        <family>Pinaceae</family>
+        <meaning>from Gr. Kedros, the Cedar of Pliny. alluding to the fragrance</meaning>
+        <pronunciation>SE-drus</pronunciation>
+        <species>
+            <name>deodara</name>
+            <pronunciation>de-o-DAR-a</pronunciation>
+            <meaning>from the Indian state Deodar</meaning>
+        </species>
+        <species>
+            <name>libani</name>
+            <pronunciation>LIB-an-i</pronunciation>
+            <meaning>of Mount Lebanon</meaning>
+        </species>
+        <species>
+            <name>atlantica</name>
+            <pronunciation>at-LAN-ti-ka</pronunciation>
+            <meaning>of the Atlas mountains</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Celtis</name>
+        <family>Cannabaceae</family>
+        <meaning>L. Pliny applied to an urelated species</meaning>
+    </genus>
+    <genus>
+        <name>Cephalotaxus</name>
+        <family>Cephalotaxaceae</family>
+        <meaning>form Gr. kephale, head and Taxus, yew for its resemblance</meaning>
+        <species>
+            <name>fortunei</name>
+            <meaning>honours Robert Fortune (1812-1880), Scottish botanist and plant collector who introduced this palnt to Britain in 1848</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cercidiphyllum</name>
+        <family>Cercidiphyllaceae</family>
+        <meaning>from Gr. kerkis meaning redbud or Judas teeee, and pyllon, a leaf for its
+            similarity to redbud</meaning>
+        <species>
+            <name>japonicum</name>
+            <meaning>from Japan</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cercis</name>
+        <family>Fabaceae</family>
+        <pronunciation>SER-sis</pronunciation>
+        <meaning>an ancient name given to the Judas Tree by the Greek philosopher
+            Theophrastus.</meaning>
+        <species>
+            <name>siliquastrum</name>
+            <pronunciation>sil-e-KWAS-trum</pronunciation>
+            <meaning>from siliqua, a botantic name for pods having a partition between the
+                seeds</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Chamaecyparis</name>
+        <family>Cupressaceae</family>
+        <meaning>from Gr. chamai, dwarf or to the ground and kyparissos, cypress tree</meaning>
+        <species>
+            <name>lawsoniana</name>
+            <meaning>after Lawson amd Son nursery in Edinburgh who intoduced the tree into
+                cultivation in 1854</meaning>
+        </species>
+        <species>
+            <name>nootkatensis</name>
+            <meaning/>
+        </species>
+        <species>
+            <name>obtusa</name>
+            <meaning>rounded, in reference to leaves being blunt/rounded at tips</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Chimonanthus</name>
+        <family>Calycanthaceae</family>
+        <pronunciation>kim-on-AN-thus</pronunciation>
+        <meaning>from Gr. cheimon, winter and anthos, a flower , alluding the the flowering of C. fragrans in the winter</meaning>
+        <species>
+            <name>praecox</name>
+            <meaning>very early, in reference to bloom time</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Clerodendrum</name>
+        <family>Lamiaceae</family>
+        <pronunciation>kler-o-DEN-dron</pronunciation>
+        <meaning>said to be from Gr kleros, chance and  dendron, a tree -of uncertain significance</meaning>
+        <species>
+            <name>trichotomum</name>
+            <pronunciation>trik-OT-om-um</pronunciation>
+            <meaning>with three points - the leaves</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cordyline</name>
+        <family>Asparagaceae</family>
+        <meaning>from Gr. kordyle meaning club</meaning>
+        <species>
+            <name>australis</name>
+            <meaning>southern</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cornus</name>
+        <family>Cornaceae</family>
+        <pronunciation>KOR-nus</pronunciation>
+        <meaning>from the L. a horn, from the hard nature of the wood</meaning>
+        <species>
+            <name>controversa</name>
+            <meaning>controversial, after the debate about its naming ?</meaning>
+            <cultivar>
+                <name>Variegata</name>
+                <meaning>green leaves with white margins</meaning>
+            </cultivar>
+        </species>
+        <species>
+            <name>kousa</name>
+            <meaning>from the Japanese name for the species</meaning>
+        </species>
+        <species>
+            <name>mas</name>
+            <meaning>male</meaning>
+        </species>
+        <species>
+            <name>sanguinea</name>
+            <meaning>from L. sanguineus, blood in reference to the red autumn foliage and reddish twigs</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Corylus</name>
+        <family>Betulaceae</family>
+        <pronunciation>kor-IL-us</pronunciation>
+        <meaning>possible from Gr. korys a hood or helmet ie. the calyx covering the nut, or from
+            Gr. karyon a hazel nut </meaning>
+        <species>
+            <name>avellana</name>
+            <pronunciation>av-el-LA-na</pronunciation>
+            <meaning>after Avella, a town in Campania where the hazel nut is largely grown for its
+                nuts</meaning>
+        </species>
+        <species>
+            <name>maxima</name>
+            <pronunciation>MAX-im-a</pronunciation>
+            <meaning>largest</meaning>
+        </species>
+        <species>
+            <name>colurna</name>
+            <meaning>classical name for hazelnut</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cotoneaster</name>
+        <family>Rosaceae</family>
+        <pronunciation>ko-to-ne-AS-ter</pronunciation>
+        <meaning>from old L. name cotoneus, a quince and aster, probably a corruption of as instar
+            meaning a likeness i.e. Quince-like</meaning>
+        <species>
+            <name>frigidus</name>
+            <pronunciation>FRIJ-id-us</pronunciation>
+            <meaning>cold, frosty of native habitat</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Crataegus</name>
+        <family>Rosaceae</family>
+        <pronunciation>kra-TE-gus</pronunciation>
+        <meaning>Gr. krataigos, believed to be derived from kratos, strength, alluding to the
+            hardness of the wood</meaning>
+        <species>
+            <name>monogyna</name>
+            <pronunciation>mon-o-JIN-a</pronunciation>
+            <meaning>having a single pistil</meaning>
+        </species>
+        <species>
+            <name>mexicana</name>
+            <pronunciation>mon-o-JIN-a</pronunciation>
+            <meaning>from Mexico</meaning>
+        </species>
+        <species>
+            <name>laevigata</name>
+            <meaning>smooth</meaning>
+        </species>
+        <species>
+            <name>crus-galli</name>
+            <meaning>L. leg of a cock in reference to the thorn's resemblance to a cock's spurs</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cryptomeria</name>
+        <family>Cupressaceae</family>
+        <pronunciation>krip-to-MEER-e-a</pronunciation>
+        <meaning>from Gr. kryptos, hidden and meros a part, alluding to latent
+            characteristics</meaning>
+        <species>
+            <name>japonica</name>
+            <pronunciation>jap-ON-ik-a</pronunciation>
+            <meaning>of Japan</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cupressus</name>
+        <family>Cupressaceae</family>
+        <pronunciation>ku-PRES-sus</pronunciation>
+        <meaning>classical name, said to be from Gr. kuo, to produce, parisos, equal, alluding to
+            the symmetrical form of the Italian Cypress</meaning>
+        <species>
+            <name>macrocarpa</name>
+            <pronunciation>mak-ro-KAR-pa</pronunciation>
+            <meaning>large fruited</meaning>
+        </species>
+        <species>
+            <name>sempervirens</name>
+            <pronunciation>sem-per-VEER-enz</pronunciation>
+            <meaning>always green</meaning>
+        </species>
+        <species>
+            <name>nootkatensis</name>
+            <pronunciation>noot-ka-TEN-sis</pronunciation>
+            <meaning>of Nootka, British Columbia</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Cydonia</name>
+        <family>Rosaceae</family>
+        <pronunciation>sy-DO-ne-a</pronunciation>
+        <meaning>from the town of Cydon (now Khania) in Crete</meaning>
+        <species>
+            <name>oblonga</name>
+            <meaning>oblong</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Davidia</name>
+        <family>Cornaceae</family>
+        <pronunciation>da-VID-e-a</pronunciation>
+        <meaning>after <person>Armand David</person>, French missionary who botanised in China</meaning>
+        <species>
+            <name>involucrata</name>
+            <pronunciation>in-vol-u-KRA-ta</pronunciation>
+            <meaning>involucred i.e. having an involucre as umbrels,heads</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Decaisnea</name>
+        <family>Lardizabalaceae</family>
+        <meaning>honours <person>Joseph Decaisne</person> (1807-1882), director of the Jardin des Plantes, Paris</meaning>
+        <species>
+            <name>fargesii</name>
+            <meaning>honours <person>Pere Guillaume Farges</person> (1844-1912) who lived in China and discovered this plant</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Deutzia</name>
+        <family>Hydrangeaceae</family>
+        <meaning> honours <person>Johan van der Deutz</person> (1743-1788) an amateur botanist form amsterdam (3)</meaning>
+        <species>
+            <name>scabra</name>
+            <meaning>rough in reference to rough,hairy leaves (3)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Dicksonia</name>
+        <family>Dicksoniaceae</family>
+        <meaning> honors <person>James Dickson</person> (1738-1822), British botanist and nurseryman(3)</meaning>
+        <species>
+            <name>antarctica</name>
+            <meaning> presumably refers to the southern hemisphere</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Drimys</name>
+        <family>Winteraceae</family>
+        <pronunciation>DRIM-is</pronunciation>
+        <meaning>from Gr. drimus, acid, referrng to the pungent tast of bark and foliage</meaning>
+        <species>
+            <name>winteri</name>
+            <pronunciation>WIN-ter-i</pronunciation>
+            <meaning>after a Captain Winter, one of Drake's captains who introduced the bark</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Elaeagnus</name>
+        <family>Elaeagnaceae</family>
+        <meaning>comes from the Greek words elaia meaning the olive tree and agnos meaning chaste-tree.(3)</meaning>
+        <species>
+            <name>pungens</name>
+            <meaning>sharp-pointed in reference to the sharp thorny spines</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Eucalyptus</name>
+        <family>Myrtaceae</family>
+        <pronunciation>u-kal-IP-tus</pronunciation>
+        <meaning>Gr. eu, good or well and calypha, covered in allusion to the calyx which covers the
+            flower like a lid</meaning>
+        <species>
+            <name>gunnii</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Euonymus</name>
+        <family>Celastraceae</family>
+        <pronunciation>u-O-ne-mus</pronunciation>
+        <meaning>siadto benamed after Euonyme,the mother of the Furies  or from Gr eu, good, onoma, a name ie of good repute </meaning>
+    </genus>
+    <genus>
+        <name>Fagus</name>
+        <family>Fagaceae</family>
+        <pronunciation>FA-gus</pronunciation>
+        <meaning>the L. name for a Beech tree, some authorities deriving the word from Gr. phago to
+            eat, the seeds being edible</meaning>
+        <species>
+            <name>sylvatica</name>
+            <pronunciation>sil-VAT-ik-a</pronunciation>
+            <meaning>inhabiting woods</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ficus</name>
+        <family>Moraceae</family>
+        <pronunciation>FI-kus</pronunciation>
+        <meaning>the L. name for a Fig tree and one common in many European languages. Believed to
+            be derived from the Hebrew name fag</meaning>
+        <species>
+            <name>carica</name>
+            <pronunciation>KAR-ik-a</pronunciation>
+            <meaning>of Caria, Asia Minor</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Fraxinus</name>
+        <family>Oleaceae</family>
+        <pronunciation>FRAKS-in-us</pronunciation>
+        <meaning>L. name for an Ash tree, probably from Gr. phrasso, to fence, the wood being useful
+            for fence-making</meaning>
+        <species>
+            <name>excelsior</name>
+            <pronunciation>ek-SEL-se-or</pronunciation>
+            <meaning>L. taller</meaning>
+        </species>
+        <species>
+            <name>angustifolia</name>
+            <pronunciation/>
+            <meaning>L. narrow-leaved</meaning>
+        </species>
+        <species>
+            <name>ornus</name>
+            <pronunciation>OR-nus</pronunciation>
+            <meaning>old L. name for Ash</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Garrya</name>
+        <family>Garryaceae</family>
+        <pronunciation>GAR-re-a</pronunciation>
+        <meaning>named by Douglas in hour of Mr. Garry of the Hudson Bay Company who helped Douglas with his plant-collecting</meaning>
+        <species>
+            <name>elliptica</name>
+            <pronunciation>el-LIP-yik-a</pronunciation>
+            <meaning>ellipse-shaped - of the leaves</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Genista</name>
+        <family>Fabaceae</family>
+        <pronunciation>jen-IS-ta</pronunciation>
+        <meaning>ancient L. name</meaning>
+        <species>
+            <name>aetnensis</name>
+            <pronunciation>et-NEN-sis</pronunciation>
+            <meaning>of Mount Etna</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ginkgo</name>
+        <family>Ginkgoaceae</family>
+        <pronunciation>GINK-go</pronunciation>
+        <meaning>is a misrendering of the Japanese gin meaning silver and kyo meaning apricot used
+            in Japan in the 17th century</meaning>
+        <species>
+            <name>biloba</name>
+            <pronunciation>bil-O-ba</pronunciation>
+            <meaning>two-lobed, the foliage</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Gleditsia</name>
+        <family>Fabaceae</family>
+        <pronunciation>gled-its-ia</pronunciation>
+        <meaning>named after Johann Gottlieb Gleditsch (1714-1786), director of the Botanical
+            Garden, Berlin.</meaning>
+        <species>
+            <name>triacanthos</name>
+            <meaning>from Gr. tri, three and Gr. acantha, thorn</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Griselinia</name>
+        <family>Griseliniaceae</family>
+        <pronunciation>gris-el-IN-e-a</pronunciation>
+        <meaning>after Franc Griselini, a Venetian botanist</meaning>
+        <species>
+            <name>littoralis</name>
+            <meaning>of the sea-shore</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Gymnocladus</name>
+        <family>Fabaceae</family>
+        <pronunciation>gim-no-KLA-dus</pronunciation>
+        <meaning>from Gr. gymnos, naked and klados, a branch, presumably in allusion to the buds
+            being almost invisible on the winter branches </meaning>
+        <species>
+            <name>dioicus</name>
+            <meaning>meaning dioecious, having separate male and female plants</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Hippophae</name>
+        <family>Elaeagnaceae</family>
+        <pronunciation>hip-PO-fa-e</pronunciation>
+        <meaning>Gr name for a spring plant</meaning>
+        <species>
+            <name>rhamnoides</name>
+            <pronunciation>ram-NOY-dez</pronunciation>
+            <meaning>like Rhamnus (Buckthorn)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Idesia</name>
+        <family>Salicaceae</family>
+        <pronunciation>i-DE-ze-a</pronunciation>
+        <meaning>after E. Y. Ides, a Dutchman who travelled to China in the 17th C.</meaning>
+        <species>
+            <name>polycarpa</name>
+            <meaning>many-fruited</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Jasminum</name>
+        <family>Oleaceae</family>
+        <pronunciation>jas-MIN-um</pronunciation>
+        <meaning>said to be derived from ysmyn, the Arabic name</meaning>
+        <species>
+            <name>beesianum</name>
+            <pronunciation>bee-ze-A-num</pronunciation>
+            <meaning>after Messrs. Bees, the nurserymen who introduced the plant</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ilex</name>
+        <family>Aquifoliaceae</family>
+        <pronunciation>I-lex</pronunciation>
+        <meaning>from the old l. name ilex, an evergreen oak, to which the Holly is supposed to bear
+            some resemblance</meaning>
+        <species>
+            <name>aquifolium</name>
+            <pronunciation>ak-we-FO-le-um</pronunciation>
+            <meaning>pointed leaves</meaning>
+        </species>
+        <cultivar>
+            <name>Albomarginata</name>
+            <meaning>White margined</meaning>
+        </cultivar>
+        <cultivar>
+            <name>Aureomarginata</name>
+            <meaning>Gold margined</meaning>
+        </cultivar>
+        <cultivar>
+            <name>Argentea Marginata</name>
+            <meaning>Silver margined</meaning>
+        </cultivar>
+    </genus>
+    <genus>
+        <name>Juniperus</name>
+        <family>Cupressaceae</family>
+        <pronunciation>ju-NIP-er-us</pronunciation>
+        <meaning>old L. name</meaning>
+        <species>
+            <name>communis</name>
+            <pronunciation>kom-MU-nis</pronunciation>
+            <meaning>common</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Juglans</name>
+        <family>Juglandaceae</family>
+        <pronunciation>JUG-lans</pronunciation>
+        <meaning>old L. name for the walnut tree, possibly from Jovis glans, the nut of Jupiter in
+            mythology</meaning>
+        <species>
+            <name>regia</name>
+            <pronunciation>RE-je-a</pronunciation>
+            <meaning>royal</meaning>
+        </species>
+        <species>
+            <name>nigra</name>
+            <pronunciation>NEE-gra</pronunciation>
+            <meaning>black</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Koelreuteria</name>
+        <family>Sapindaceae</family>
+        <pronunciation>kol-roy-TEER-e-a</pronunciation>
+        <meaning>after Joseph Gottlieb Kölreuter, a German botanist</meaning>
+        <species>
+            <name>paniculata</name>
+            <pronunciation>pan-ik-ul-A-ta</pronunciation>
+            <meaning>flowers in panticles, a much-branched inflorescence</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Laburnum</name>
+        <family>Fabaceae</family>
+        <pronunciation>la-BUR-num</pronunciation>
+        <meaning>old L. name</meaning>
+        <species>
+            <name>anagyroides</name>
+            <meaning>resembling the genus Anagyris, almost extinct flowering plants </meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Larix</name>
+        <family>Pinaceae</family>
+        <pronunciation>LAR-iks</pronunciation>
+        <meaning>old L. name for the Larch</meaning>
+        <species>
+            <name>decidua</name>
+            <meaning>deciduous</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Laurus</name>
+        <family>Lauraceae</family>
+        <meaning> Old L. name for a Bay tree, the true 'Laurel' of the ancients, perhaps derived
+            from Celtic laur, green</meaning>
+        <pronunciation>LAW-rus</pronunciation>
+        <species>
+            <name>nobilis</name>
+            <pronunciation>NO-bil-is</pronunciation>
+            <meaning>noble</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ligustrum</name>
+        <family>Oleaceae</family>
+        <pronunciation>li-GUS-trum</pronunciation>
+        <meaning>L. name for privet, possibly from L. ligo to bind, the twigs having been used for
+            tying</meaning>
+        <species>
+            <name>lucidum</name>
+            <meaning>bright or shining</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Liquidambar</name>
+        <family>Altingiaceae</family>
+        <pronunciation>li-kwid am-BAR</pronunciation>
+        <meaning>from L. liquidus, liquid and ambar, Arabic amber from the fragrant resin</meaning>
+        <species>
+            <name>styraciflua</name>
+            <meaning>flowing with styrax (a plant resin)</meaning>
+            <pronunciation>sty-RAS-i-FLU-a</pronunciation>
+        </species>
+    </genus>
+    <genus>
+        <name>Liriodendron</name>
+        <family>Magnoliaceae</family>
+        <pronunciation>lir-e-o-DEN-dron</pronunciation>
+        <meaning>from Gr. lirion, a lily and dendron, a tree</meaning>
+        <species>
+            <name>tulipfera</name>
+            <meaning>tulip-bearing</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Magnolia</name>
+        <family>Magnoliaceae</family>
+        <pronunciation>mag-NO-li-a</pronunciation>
+        <meaning>&gt;named by Linneaus in commemoration of Piere Magnol, a professor of botant and medicine at Montpellier in 16th C</meaning>
+        <species>
+            <name>grandifloria</name>
+            <meaning>large-flowered</meaning>
+        </species>
+        <species>
+            <name>kobus</name>
+            <meaning>a Japanese name</meaning>
+        </species>
+        <species>
+            <name>stellata</name>
+            <meaning>starry  - the flowers</meaning>
+        </species>
+        <species>
+            <name>acuminata</name>
+            <meaning>pointed at the tip</meaning>
+        </species>
+        <species>
+            <name>macrophylla</name>
+            <meaning>large leaved</meaning>
+        </species>
+        <species>
+            <name>lilliflora</name>
+            <meaning>flowers like a lilly</meaning>
+        </species>
+        <cross>
+            <name>soulangeana</name>
+            <meaning>honors Chevalier Etienne Soulange-Bodin (1774-1846), Director of the French Royal Institute.</meaning>
+        </cross>
+    </genus>
+    <genus>
+        <name>Malus</name>
+        <family>Rosaceae</family>
+        <meaning>from Gr malon, apple</meaning>
+        <species>
+            <name>sylvestris</name>
+            <meaning>of woods</meaning>
+        </species>
+        <species>
+            <name>floribunda</name>
+            <meaning>abundant flowers</meaning>
+        </species>
+        <species>
+            <name>domestica</name>
+            <meaning>domesticated</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Mespilus</name>
+        <family>Rosaceae</family>
+        <pronunciation>MES-pil-us</pronunciation>
+        <meaning>from  Gr. mesos, half and pilos a ball, refering to the shape of the fruits</meaning>
+    </genus>
+    <genus>
+        <name>Morus</name>
+        <family>Moraceae</family>
+        <pronunciation>MOR-us</pronunciation>
+        <meaning>ancient L. name for mulberry</meaning>
+    </genus>
+    <genus>
+        <name>Olearia</name>
+        <family>Asteraceae</family>
+        <pronunciation>ol-e-A-re-a</pronunciation>
+        <meaning>believed to refer to resemblance to Olea (Olive)</meaning>
+    </genus>
+    <genus>
+        <name>Ostrya</name>
+        <family>Betulaceae</family>
+        <pronunciation>OS-tre-a</pronunciation>
+        <meaning>possibly from Gr. ostryos a scale in allusion to the scaly catkins</meaning>
+        <species>
+            <name>carpinifolia</name>
+            <pronunciation>kar-pi-nif-OL-e-a</pronunciation>
+            <meaning>Carpinus(Hornbeam) - leaved</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Parrotia</name>
+        <family>Hamamelidaceae</family>
+        <pronunciation>per-ROT-i-a</pronunciation>
+        <meaning>after the German botanist Friedrich Parrot</meaning>
+        <species>
+            <name>persica</name>
+            <meaning>from Persia</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Paulownia</name>
+        <family>Paulowniaceae</family>
+        <pronunciation>paw-LO-ne-a</pronunciation>
+        <meaning>named by a Dutch botanist named Siebold after Anna Paulowna, daughter of Tsar Paul
+            I of Russia and queen consort of King William II of the Netherlands</meaning>
+    </genus>
+    <genus>
+        <name>Phillyrea</name>
+        <family>Oleaceae</family>
+        <pronunciation>fil-LER-a-a</pronunciation>
+        <meaning>from Gr. philein, to love, in reference to to the lily-like flowers</meaning>
+    </genus>
+    <genus>
+        <name>Picea</name>
+        <family>Pinaceae</family>
+        <pronunciation>PIS-e-a</pronunciation>
+        <meaning>ancient L. name for Spruce, perhaps derived from the L. pix meaning pitch</meaning>
+        <species>
+            <name>abies</name>
+            <meaning>like the fir</meaning>
+        </species>
+        <species>
+            <name>breweriana</name>
+            <meaning>after William Henry Brewer (1828-1910), professor of agriculture at Yale
+                University</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pittosporum</name>
+        <family>Pittosporaceae</family>
+        <pronunciation>pit-TOS-por-um</pronunciation>
+        <meaning>from Gr. pitte, tar and sporos, seed the latter being coated with a resinous substance</meaning>
+        <species>
+            <name>tenuifolium</name>
+            <meaning>thin-leaved</meaning>
+        </species>
+        <species>
+            <name>tobira</name>
+            <pronunciation>to-BI-ra</pronunciation>
+            <meaning>Native Japanese name</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Platanus</name>
+        <family>Platanaceae</family>
+        <pronunciation>PLAT-an-us</pronunciation>
+        <meaning>the old Gr. name for the Plane tree, from platus in reference to the palmate leaves
+            or the broad spread of the tree</meaning>
+        <species>
+            <name>acerifolia</name>
+            <pronunciation>a-ser-if-O-le-a</pronunciation>
+            <meaning>acer-leaved</meaning>
+        </species>
+        <species>
+            <name>orientalis</name>
+            <meaning>of the east</meaning>
+        </species>
+        <species>
+            <name>occidentalis</name>
+            <meaning>of the west</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pinus</name>
+        <family>Pinaceae</family>
+        <pronunciation>PY-nus</pronunciation>
+        <meaning>ancient classical name for a pine tree</meaning>
+        <species>
+            <name>sylvestris</name>
+            <pronunciation>sil-VES-tris</pronunciation>
+            <meaning>of woods</meaning>
+        </species>
+        <species>
+            <name>mugo</name>
+            <meaning>an ancient Tyrolean name</meaning>
+        </species>
+        <species>
+            <name>pinaster</name>
+            <meaning>old name for the Maritime Pine</meaning>
+        </species>
+        <species>
+            <name>wallichiana</name>
+            <meaning>after Nathaniel Wallich (1786-1854), Danish botanist and superintendent of the
+                Calcutta Botantic Garden</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Populus</name>
+        <family>Salicaceae</family>
+        <pronunciation>POP-u-lus</pronunciation>
+        <meaning>the arbor-populus, the tree of the people of the Romans, the Italian Popular being
+            much planted in their cities.</meaning>
+        <species>
+            <name>alba</name>
+            <meaning>white</meaning>
+        </species>
+        <species>
+            <name>trichocarpa</name>
+            <pronunciation>trik-o-KAR-pa</pronunciation>
+            <meaning>hairy-fruited</meaning>
+        </species>
+        <species>
+            <name>deltoides</name>
+            <pronunciation>DEL-toi-des</pronunciation>
+            <meaning>triangular or deltoid shape of the leaves</meaning>
+        </species>
+        <species>
+            <name>tremula</name>
+            <pronunciation>TREM-ul-a</pronunciation>
+            <meaning>trembling, the quivering of the leaves</meaning>
+        </species>
+        <species>
+            <name>canadensis</name>
+            <meaning>of Canada</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Prunus</name>
+        <family>Rosaceae</family>
+        <pronunciation>PROO-nus</pronunciation>
+        <meaning>classical name for the Plum</meaning>
+        <species>
+            <name>padus</name>
+            <pronunciation>PA-dus</pronunciation>
+            <meaning>Gr. name for Bird Cherry</meaning>
+        </species>
+        <species>
+            <name>avium</name>
+            <pronunciation>AV-e-um</pronunciation>
+            <meaning>L. avis, a bird</meaning>
+        </species>
+        <species>
+            <name>cerasifera</name>
+            <pronunciation>ser-as-IF-er-a</pronunciation>
+            <meaning>cherry-bearing</meaning>
+        </species>
+        <species>
+            <name>laurocerasus</name>
+            <pronunciation>LAW-ro-ser-A-sus</pronunciation>
+            <meaning>laurel cherry</meaning>
+        </species>
+        <species>
+            <name>lusitanica</name>
+            <pronunciation>loo-sit-A-nik-a</pronunciation>
+            <meaning>Portuguese</meaning>
+        </species>
+        <species>
+            <name>serrulata</name>
+            <pronunciation>ser-rul-A-ta</pronunciation>
+            <meaning>finely-toothed - the leaves</meaning>
+        </species>
+        <species>
+            <name>sargentii</name>
+            <meaning>named after Charles S. Sargent (1841-1927) first director of the Arnold
+                Arboretum</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pseudotsuga</name>
+        <family>Pinaceae</family>
+        <pronunciation>SUE-do-SU-ga</pronunciation>
+        <meaning>false Tsuga, the genus of the Hemlock firs</meaning>
+        <species>
+            <name>menziesii</name>
+            <meaning>after Archibald Menzies, a Scottish physician and naturalist</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pterocarya</name>
+        <family>Juglandaceae</family>
+        <meaning>ptero, winged and carya, hickory</meaning>
+        <species>
+            <name>fraxinifolia</name>
+            <meaning>leaves similar to ash</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Punica</name>
+        <family>Lythraceae</family>
+        <meaning>from Malus punica Apple of Carthage, an early name for the Pomogranate</meaning>
+        <species>
+            <name>granatum</name>
+            <meaning>old name</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Pyracantha</name>
+        <family>Rosaceae</family>
+        <meaning>from Gr. pyros, fire and akanthos, a thorn, in reference to brilliant berries and spiny branches</meaning>
+    </genus>
+    <genus>
+        <name>Pyrus</name>
+        <family>Rosaceae</family>
+        <pronunciation>PY-rus</pronunciation>
+        <meaning>classical name for a Pear tree</meaning>
+        <species>
+            <name>calleryana</name>
+            <meaning>named after Joseph-Marie Callery (1810-1862)</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Quercus</name>
+        <family>Fagaceae</family>
+        <pronunciation>KWER-kus</pronunciation>
+        <meaning>Latin name for an oak tree; some authorities derive word form Celtic quer, fine and
+            cuez, a tree</meaning>
+        <species>
+            <name>alba</name>
+            <meaning>L. white refers to the light ash-grey bark</meaning>
+        </species>
+        <species>
+            <name>borealis</name>
+            <meaning>L. north</meaning>
+        </species>
+        <species>
+            <name>castaneifolia</name>
+            <meaning>Chestnut leaved</meaning>
+        </species>
+        <species>
+            <name>cerris</name>
+            <pronunciation>SER-ris</pronunciation>
+            <meaning>The old L. name for the Turkey Oak</meaning>
+        </species>
+        <species>
+            <name>coccinea</name>
+            <pronunciation>kok-SIN-e-a</pronunciation>
+            <meaning>L. Scarlet, refering to the autumnal colour of the leaves</meaning>
+        </species>
+        <species>
+            <name>ilex</name>
+            <pronunciation>I-leks</pronunciation>
+            <meaning>ancient L. name for the Holm Oak, now generic name for the hollies which some
+                evergreen oaks resemble</meaning>
+        </species>
+        <species>
+            <name>libani</name>
+            <pronunciation>LIB-an-e</pronunciation>
+            <meaning>of Lebanon</meaning>
+        </species>
+        <species>
+            <name>petraea</name>
+            <meaning>growing on stony ground</meaning>
+        </species>
+        <species>
+            <name>robur</name>
+            <meaning>L. robust referring to its strength and durability</meaning>
+        </species>
+        <species>
+            <name>pedunculata</name>
+            <pronunciation>ped-unhk-ul-A-ta</pronunciation>
+            <meaning>long-stalked, the inflorescenes and fruits</meaning>
+        </species>
+        <species>
+            <name>rubra</name>
+            <pronunciation>ROO-bra</pronunciation>
+            <meaning>L. red after the autumnal leaves</meaning>
+        </species>
+        <species>
+            <name>suber</name>
+            <pronunciation>SU-ber</pronunciation>
+            <meaning>cork - old L. name for the Cork Oak</meaning>
+        </species>
+        <species>
+            <name>canariensis</name>
+            <meaning>from the Canary Islands</meaning>
+        </species>
+        <species>
+            <name>arizonica</name>
+            <meaning>from Arizona</meaning>
+        </species>
+        <species>
+            <name>arkansana</name>
+            <meaning>from Arkansas</meaning>
+        </species>
+        <species>
+            <name>coccifera</name>
+            <pronunciation>kok-SIF-er-a</pronunciation>
+            <meaning>L coccus, from the Greek of the Kermes insect and L fera, bearer, alluding to the kermes insect parasitic on this tree, and which yields a crimson dye</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Rhamnus</name>
+        <family>Rhamnaceae</family>
+        <pronunciation>RAM-us</pronunciation>
+        <meaning>ancient Gr. name, possibly from rhamnos, a thorny shrub</meaning>
+        <species>
+            <name>frangula</name>
+            <meaning>brittle - old name for this buckthorn</meaning>
+        </species>
+        <species>
+            <name>cathartica</name>
+            <meaning>cathartic</meaning>
+        </species>
+        <species>
+            <name>alaternus</name>
+            <meaning>an old generic name </meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Rhus</name>
+        <family>Anacardiaceae</family>
+        <pronunciation>ROOS</pronunciation>
+        <meaning>ancient Gr. name</meaning>
+        <species>
+            <name>typhina</name>
+            <meaning>antler-shaped - of the branches</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Robinia</name>
+        <family>Fabaceae</family>
+        <pronunciation>rob-IN-e-a</pronunciation>
+        <meaning>named after Jean Robin, a French botanist and herbalist to Henry IV of France</meaning>
+        <species>
+            <name>pseudoacacia</name>
+            <meaning>false acacia</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Salix</name>
+        <family>Salicaceae</family>
+        <pronunciation>sa-LIKS</pronunciation>
+        <meaning>L. name for willow, possibly form celtic sal, near and lis, water</meaning>
+        <species>
+            <name>caprea</name>
+            <pronunciation>KAP-re-a</pronunciation>
+            <meaning>from L. goat</meaning>
+        </species>
+        <species>
+            <name>cinerea</name>
+            <pronunciation>cin-er-E-a</pronunciation>
+            <meaning>ash-coloured</meaning>
+        </species>
+        <species>
+            <name>fragilis</name>
+            <pronunciation>FRAJ-il-is</pronunciation>
+            <meaning>brittle</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Sambucus</name>
+        <family>Adoxaceae</family>
+        <pronunciation>sam-BU-kus</pronunciation>
+        <meaning>ancient L. name for Elder</meaning>
+        <species>
+            <name>platyphyllos</name>
+            <meaning>Gr. playts, broad and phyllon, leaf in reference to the large leaves.</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Sequoia</name>
+        <family>Cupressaceae</family>
+        <pronunciation>se-KWOY-a</pronunciation>
+        <meaning>after Sequoyah (1767-1843), the inventor of the Cherokee alphabet</meaning>
+    </genus>
+    <genus>
+        <name>Sequoiadendron</name>
+        <family>Cupressaceae</family>
+        <meaning>Sequioa leaved</meaning>
+        <species>
+            <name>giganteum</name>
+            <meaning>gigantic</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Sophora</name>
+        <family>Fabaceae</family>
+        <pronunciation>SOF-or-a</pronunciation>
+        <meaning>from an Arabic nae for a tree with pea-shaped flowers</meaning>
+    </genus>
+    <genus>
+        <name>Sorbus</name>
+        <family>Rosaceae</family>
+        <meaning>from L. service tree</meaning>
+        <species>
+            <name>hupehensis</name>
+            <meaning>from Hupeh a province of China</meaning>
+        </species>
+        <species>
+            <name>aucuparia</name>
+            <meaning>from L avis, bird and capere, catching in reference to the use of the fruit of
+                S. aucuparia as bait for fowling.</meaning>
+        </species>
+        <species>
+            <name>bristoliensis</name>
+            <meaning>from Bristol</meaning>
+        </species>
+        <species>
+            <name>torminalis</name>
+            <meaning>from the l. tormina, meaning gripe in reference to the use of the fruits as a
+                herbal treatment for colic</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Sycopsis</name>
+        <family>Hamamelidaceae</family>
+    </genus>
+    <genus>
+        <name>Syringa</name>
+        <family>Oleaceae</family>
+        <pronunciation>sy-ring-A</pronunciation>
+        <meaning>from Gr.syrinx, a tube said to be in allusion to the hollow stems used for pipes</meaning>
+        <species>
+            <name>vulgaris</name>
+            <meaning>common</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Tetradium</name>
+        <family>Rutaceae</family>
+        <species>
+            <name>daniellii</name>
+            <meaning>name honours William Freeman Daniell(1818-1865), British army surgeon and botanist</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Taxus</name>
+        <family>Taxaceae</family>
+        <pronunciation>TAKS-us</pronunciation>
+        <meaning>L. name for yew perhaps from taxon a bow,the wood having once been used in their
+            making</meaning>
+        <species>
+            <name>baccata</name>
+            <pronunciation>bak-KA-ta</pronunciation>
+            <meaning>berried</meaning>
+            <cultivar>
+                <name>Fastigiata</name>
+                <meaning>Upright branches</meaning>
+            </cultivar>
+        </species>
+    </genus>
+    <genus>
+        <name>Thuja</name>
+        <family>Cupressaceae</family>
+        <meaning>classical name, possibly from Gr. thuia, ancient name for some resin-bearing tree, or
+            from Gr, thuon, a sacrifice at which the resin would be burnt</meaning>
+        <species>
+            <name>plicata</name>
+            <pronunciation>pli-KA-ta</pronunciation>
+            <meaning>L. folded</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Thujopsis</name>
+        <family>Cupressaceae</family>
+        <pronunciation>thew-YOP-sis</pronunciation>
+        <meaning>from Gr. thuja and opsis, likeness </meaning>
+        <species>
+            <name>dolabrata</name>
+            <meaning>axe-shaped</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Tilia</name>
+        <family>Malvaceae</family>
+        <pronunciation>TIL-e-a</pronunciation>
+        <meaning>old L. name for Lime tree</meaning>
+        <species>
+            <name>cordata</name>
+            <pronunciation>kor-DAT-a</pronunciation>
+            <meaning>heart-shaped - the leaves</meaning>
+        </species>
+        <species>
+            <name>platyphyllus</name>
+            <pronunciation>plat-e-FIL-lus</pronunciation>
+            <meaning>broad-leaved</meaning>
+        </species>
+        <species>
+            <name>tomentosa</name>
+            <pronunciation>to-men-TO-sa</pronunciation>
+            <meaning>felted, the leaf underparts</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Trachycarpus</name>
+        <family>Arecaceae</family>
+        <meaning>from Gr trachus,rough and karpus, a fruit</meaning>
+    </genus>
+    <genus>
+        <name>Tsuga</name>
+        <family>Pinaceae</family>
+        <meaning>Japanese name for T. seiboldii</meaning>
+    </genus>
+    <genus>
+        <name>Ulmus</name>
+        <family>Ulmaceae</family>
+        <pronunciation>UL-mus</pronunciation>
+        <meaning>old L. name for Elm, perhaps from the Celtic name ulm</meaning>
+        <species>
+            <name>glabra</name>
+            <meaning>L. smooth, in probable reference to the bark</meaning>
+        </species>
+        <species>
+            <name>minor</name>
+            <meaning>smaller</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Viburnum</name>
+        <family>Adoxaceae</family>
+        <pronunciation>vi-BUR-num</pronunciation>
+        <meaning>old L. name for V. lantana</meaning>
+        <species>
+            <name>lantana</name>
+            <meaning>ancient name for the Wayfaring Tree</meaning>
+        </species>
+        <species>
+            <name>opulus</name>
+            <meaning>once the generic name for the Guelder Rose </meaning>
+        </species>
+        <species>
+            <name>tinus</name>
+            <meaning>old L. name</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Wisteria</name>
+        <family>Fabaceae</family>
+        <meaning>after Casper Wistar (1761 - 1818), professor at University of Pennsylania</meaning>
+        <pronunciation>wis-TEER-e-a</pronunciation>
+    </genus>
+    <genus>
+        <name>Wollemia</name>
+        <family>Araucariaceae</family>
+        <meaning>after the Wollemi National Park where Wollemia nobilis was discovered.</meaning>
+        <species>
+            <name>nobilis</name>
+            <meaning>after David Noble, the park ranger and explorer who discovered the species in 1994</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Zanthoxylum</name>
+        <family>Rutaceae</family>
+        <pronunciation>zanth-OKS-il-um</pronunciation>
+        <meaning>from Gr. xanthos,yellow, and xolum, wood</meaning>
+    </genus>
+    <genus>
+        <name>Zelkova</name>
+        <family>Ulmaceae</family>
+        <pronunciation>zel-KO-va</pronunciation>
+        <meaning>from the vernacular name in the Caucasus</meaning>
+        <species>
+            <name>serrata</name>
+            <meaning>serrated, refering to leaf margins</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Acacia</name>
+        <pronunciation>a-KA-she-a</pronunciation>
+        <family>Fabaceae</family>
+        <meaning>Gr akazo to sharpen or Gr akakia the Egyptian Thorn A. arabica </meaning>
+        <species>
+            <name>dealbata</name>
+            <pronunciation>de-al-BA-ta</pronunciation>
+            <meaning>whitened - of the foliage </meaning>
+        </species>
+        <species>
+            <name>cyanophylla</name>
+            <meaning>from GR cyanos dark blue and phyllon leaf</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Acca</name>
+        <family>Myrtaceae</family>
+        <species>
+            <name>sellowiana</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Austrocedrus</name>
+        <family>Cupressaceae</family>
+        <species>
+            <name>chilensis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Azalea</name>
+        <family>Ericaceae</family>
+        <species>
+            <name>luteum</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Berberis</name>
+        <family>Berberidaceae</family>
+        <species>
+            <name>thunbergii</name>
+        </species>
+        <species>
+            <name>darwinii</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Broussonetia</name>
+        <family>Moraceae</family>
+        <species>
+            <name>papyrifera</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Callistemon</name>
+        <family>Myrtaceae</family>
+        <species>
+            <name>citrinus</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Camellia</name>
+        <family>Theaceae</family>
+        <species>
+            <name>japonica</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Castanopsis</name>
+        <family>Fagaceae</family>
+        <species>
+            <name>cuspidata</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Ceanothus</name>
+        <family>Rhamnaceae</family>
+    </genus>
+    <genus>
+        <name>Chitalpa</name>
+        <family>Bignoniaceae</family>
+        <species>
+            <name>taschkentensis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Colletia</name>
+        <family>Rhamnaceae</family>
+        <species>
+            <name>hystrix</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Colletia</name>
+        <family>Rhamnaceae</family>
+        <species>
+            <name>paradoxa</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Colutea</name>
+        <family>Fabaceae</family>
+        <species>
+            <name>arborescens</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Coriaria</name>
+        <family>Coriariaceae</family>
+        <species>
+            <name>nepalensis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Cotinus</name>
+        <family>Anacardiaceae</family>
+        <species>
+            <name>coggygria</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Crataemespilus</name>
+        <family>Rosaceae</family>
+        <species>
+            <name>grandiflora</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Crinodendron</name>
+        <family>Elaeocarpaceae</family>
+        <species>
+            <name>hookerianum</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Daphne</name>
+        <family>Thymelaeaceae</family>
+    </genus>
+    <genus>
+        <name>Desfontainia</name>
+        <family>Columelliaceae</family>
+        <meaning>named after the French botanist Rene Louiche Desfontaines</meaning>
+        <species>
+            <name>spinosa</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Dichotomanthes</name>
+        <family>Rosaceae</family>
+        <species>
+            <name>tristaniicarpa</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Dicksonia</name>
+        <family>Dicksoniaceae</family>
+        <species>
+            <name>antarctica</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Ehretia</name>
+        <family>Boraginaceae</family>
+        <meaning>named in honour of the German botanical illustrator <person>Georg Dionysius Ehret</person>
+        </meaning>
+        <species>
+            <name>acuminata</name>
+            <meaning>L. sharp,pointed,tapering</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Elaeagnus</name>
+        <family>Elaeagnaceae</family>
+        <species>
+            <name>pungens</name>
+        </species>
+        <species>
+            <name>macrophylla</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Eriobotrya</name>
+        <family>Rosaceae</family>
+        <species>
+            <name>japonica</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Escallonia</name>
+        <family>Escalloniaceae</family>
+    </genus>
+    <genus>
+        <name>Eucryphia</name>
+        <family>Cunoniaceae</family>
+        <species>
+            <name>nymansensis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Fiejoa</name>
+        <family>Myrtaceae</family>
+        <species>
+            <name>sellowiana</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Fitzroya</name>
+        <family>Cupressaceae</family>
+        <species>
+            <name>cupressiodes</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Fontanesia</name>
+        <family>Oleaceae</family>
+        <species>
+            <name>fortunei</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Halesia</name>
+        <family>Styracaceae</family>
+        <species>
+            <name>carolina</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Hamamelis</name>
+        <family>Hamamelidaceae</family>
+        <species>
+            <name>mollis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Hedysarum</name>
+        <family>Fabaceae</family>
+        <species>
+            <name>multijugum</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Hibiscus</name>
+        <family>Malvaceae</family>
+        <species>
+            <name>syriacus</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Kadsura</name>
+        <family>Schisandraceae</family>
+        <species>
+            <name>japonica</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Laburnocytisus</name>
+        <family>Fabaceae</family>
+        <species>
+            <name>adamii</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Lagerstroemia</name>
+        <family>Lythraceae</family>
+        <species>
+            <name>indica</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Lithocarpus</name>
+        <family>Fagaceae</family>
+        <species>
+            <name>edulis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Lophozonia</name>
+        <family>Nothofagaceae</family>
+        <species>
+            <name>obliqua</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Maclura</name>
+        <family>Moraceae</family>
+        <species>
+            <name>pomifera</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Mahonia</name>
+        <family>Berberidaceae</family>
+    </genus>
+    <genus>
+        <name>Maytenus</name>
+        <family>Celastraceae</family>
+        <species>
+            <name>boaria</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Metasequoia</name>
+        <family>Cupressaceae</family>
+        <species>
+            <name>glyptostroboides</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Myrtus</name>
+        <family>Myrtaceae</family>
+        <meaning>L. name for Murtle</meaning>
+        <species>
+            <name>communis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Neolitsea</name>
+        <family>Lauraceae</family>
+        <species>
+            <name>sericea</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Nothofagus</name>
+        <family>Nothofagaceae</family>
+        <species>
+            <name>alpina</name>
+        </species>
+        <species>
+            <name>antarctica</name>
+        </species>
+        <species>
+            <name>dombeyi</name>
+        </species>
+        <species>
+            <name>obliqua</name>
+        </species>
+        <species>
+            <name>procera</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Nyssa</name>
+        <family>Nyssaceae</family>
+        <species>
+            <name>sylvatica</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Oemleria</name>
+        <family>Rosaceae</family>
+        <species>
+            <name>cerasiformis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Olea</name>
+        <family>Oleaceae</family>
+        <species>
+            <name>europaea</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Osmanthus</name>
+        <family>Oleaceae</family>
+        <species>
+            <name>heterophyllus</name>
+        </species>
+        <species>
+            <name>delavayi</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Philadelphus</name>
+        <family>Hydrangeaceae</family>
+    </genus>
+    <genus>
+        <name>Platycladus</name>
+        <family>Cupressaceae</family>
+        <species>
+            <name>orientalis</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Podocarpus</name>
+        <family>Podocarpaceae</family>
+        <species>
+            <name>totara</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Prumnopitys</name>
+        <family>Podocarpaceae</family>
+        <species>
+            <name>andina</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Rhododendron</name>
+        <family>Ericoideae</family>
+        <species>
+            <name>arboreum</name>
+        </species>
+        <species>
+            <name>ponticum</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Rosa</name>
+        <family>Rosaceae</family>
+        <species>
+            <name>banksiae</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Sinojackia</name>
+        <family>Styracaceae</family>
+        <species>
+            <name>xylocarpa</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Staphylea</name>
+        <family>Staphyleaceae</family>
+        <species>
+            <name>colchica</name>
+        </species>
+        <species>
+            <name>pinnata</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Styphnolobium</name>
+        <family>Fabaceae</family>
+        <species>
+            <name>japonicum</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Taxodium</name>
+        <family>Cupressaceae</family>
+        <species>
+            <name>distichum</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Torreya</name>
+        <family>Taxaceae</family>
+        <species>
+            <name>taxifolia</name>
+        </species>
+    </genus>
+    <genus>
+        <name>Cistus</name>
+        <meaning>Ancient Gr. name for the Rock Rose</meaning>
+        <pronunciation>SIS-tus</pronunciation>
+        <family>Cistaceae</family>
+        <species>
+            <name>albidus</name>
+            <pronunciation>AL-bid-us</pronunciation>
+            <meaning>nearly white - of the leaves</meaning>
+        </species>
+        <species>
+            <name>ladanifer</name>
+            <meaning>yielding labdanum</meaning>
+        </species>
+        <species>
+            <name>monspeliensis</name>
+            <meaning>mon-spe-le-EN-sis</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Diospyros</name>
+        <family>Ebenaceae</family>
+        <meaning>Gr dios divine and pyros wheat or grain</meaning>
+        <species>
+            <name>kaki</name>
+            <meaning>Native Japanes name</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Tamarix</name>
+        <family>Tamaricaceae</family>
+        <pronunciation>TAM-ar-iks</pronunciation>
+        <meaning>from Tamaris (Tambro) a river in Spain </meaning>
+        <species>
+            <name>gallica</name>
+            <meaning>French</meaning>
+        </species>
+        <species>
+            <name>aphylla</name>
+            <meaning>Gr without leaves</meaning>
+        </species>
+    </genus>
+    <genus>
+        <name>Ricinus</name>
+        <pronunciation>RIS-in-us</pronunciation>
+        <meaning>classical L. name possibly from ricinus, a tick or bug which the seed resembles</meaning>
+    </genus>
+    <genus>
+        <name>Delonix</name>
+        <meaning>from Gr delos, evident or conspicuous and onux a claw referring to the long-clawed petals</meaning>
+    </genus>
+    <genus>
+        <name>Euphorbia</name>
+        <pronunciation>u-FOR-be-a</pronunciation>
+        <meaning>after Euphorbus, physician to Juba, King of Mauritania</meaning>
+        <species>
+            <name>pulcherrima</name>
+            <pronunciation>pul-KER-rim-a</pronunciation>
+            <meaning>most beautiful</meaning>
+        </species>
+    </genus>
+</epithets>

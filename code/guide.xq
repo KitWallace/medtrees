@@ -202,7 +202,7 @@ return
        <link rel="stylesheet" type="text/css"
             href="https://fonts.googleapis.com/css?family=Gentium Book Basic"/>
        <meta name="viewport" contents="width=device-width, initial-scale=1.0"/>
-       <script type="text/javascript" src="../javascript/sorttable.js"></script> 
+       <script type="text/javascript" src="sorttable.js"></script> 
        <link rel="stylesheet" type="text/css" media="screen" href="base.css"  />
        <link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 480px)" href="base-phone.css"  />
 
